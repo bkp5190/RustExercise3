@@ -1,9 +1,5 @@
 #![allow(dead_code, unused_variables)]
-use my_lib::ding;
-use my_lib::on_off;
-use my_lib::print_array;
-use my_lib::print_difference;
-use my_lib::print_distance;
+use ding_machine::{ding, on_off, print_array, print_difference, print_distance};
 // Silence some warnings so they don't distract from the exercise.
 
 fn main() {
