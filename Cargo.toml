@@ -1,0 +1,10 @@
+[package]
+name = "ding_machine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "my_lib"
+path = "src/lib.rs"
